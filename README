@@ -4,7 +4,6 @@ Controls:
 wasd - move
 mouse - look
 LShift - sprint
+Esc - exit game
 
 The goal of the game is to find the final key without being caught
-
-NOTE: There currently is no way to exit the game
