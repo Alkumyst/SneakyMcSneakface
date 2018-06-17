@@ -1,0 +1,10 @@
+Simple sneaking game
+
+Controls:
+wasd - move
+mouse - look
+LShift - sprint
+
+The goal of the game is to find the final key without being caught
+
+NOTE: There currently is no way to exit the game
